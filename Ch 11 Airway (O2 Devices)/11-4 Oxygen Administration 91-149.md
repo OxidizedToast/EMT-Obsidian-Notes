@@ -189,11 +189,115 @@ Emergency Care: **Immediately begin positive pressure ventilation**
 -  No resistance when ventilating
 -  You hear and feel air escape as the patient exhales
 
-#### Bag-valve mask
+##### Bag-valve mask(BVM)
 -  Most common method used to ventilate patients in the field
 -  Provides less tidal volume than mouth-to-mask ventilation but higher concentration of O2
 -  An experienced EMT can provide adequate tidal volume
 
 -  If you have difficulty adequately ventilating a patient with a BVM, switch immediately to another method, such as the mouth-to-mask technique.
 
-#### 11.4.3 6:09
+-  The volume of oxygen delivered is based on observing the chest rise and fall.
+	-  **Only** means of assessing **tidal volume** in the field.
+-  When using a BVM with high-flow oxygen on an adult patient, squeeze the bag just enough to cause a noticeable rise of the patient's chest
+	-  about 600 mL/s.
+	-  the risk of gastric distention and associated complications is reduced.
+
+##### BVM Technique
+-  Whenever possible, work together with your partner to provide BVM ventilation.
+	-  The BVM may be used in conjunction with an endotracheal tube or with other advanced airway techniques.
+	-  In Patients with ongoing CPR and an advanced airway in place,
+		-  ventilation at a rate of **1 breath every 6 seconds**, without pausing chest compressions.
+
+###### For a patient who is breathing too slowly (hypoventilation) with reduced tidal volume:
+-  Squeeze the bag as the patient tries to breathe in.
+-  For the next 5 to 10 breaths, slowly adjust the rate and delivered tidal volume until adequate minute volume is achieved.
+
+###### For a patient who is breathing too fast (hyperventilation) with reduced tidal volume:
+-  Explain the procedure to the patient if the patient is coherent.
+-  Initially assist respirations at he rate the patient has been breathing, squeezing the bag each time the patient inhales.
+-  For the next 5 to 10 breaths, slowly adjust the rate and delivered tidal volume until an adequate minute volume is achieved.
+
+##### What to do if you do not see the patient chest rise and fall
+-  If the patient's chest does not rise and fall, you may need to reposition the head or use an airway adjunct.
+-  If the patient's chest still does not rise and fall after you have made these corrections, check for an airway obstruction.
+
+
+##### Gastric distention
+-  Occurs when artificial ventilation fills the stomach with air
+-  Most commonly affects children
+-  Most likely to occur when you ventilate the patient too forcefully or too rapidly
+-  May also occur when the airway is obstructed
+
+**How to prevent or alleviate distention:**
+-  Ensure the patient's airway is appropriately positioned
+-  Ventilate at the appropriate rate
+-  Ventilate with the appropriate volume
+**If the stomach appears distended, recheck and reposition the head and perform rescue breathing.**
+
+##### Passive ventilation
+-  Expansion and contraction create a "pump" for air movement.
+-  Benefits patients who are receiving chest compressions
+-  Can be enhanced using oropharyngeal airway and supplemental oxygen
+
+##### Manually triggered ventilation devices
+-  Also known as **flow-restricted, oxygen-powered ventilation devices**
+-  Allow a single rescuer to use both hands to maintain the mask-to-face seal while providing positive-pressure ventilation
+	-  Reduces rescuer fatigue
+
+-  May be difficult to maintain adequate ventilation without assistance
+-  Should not be used routinely
+-  Should not be used in patients with COPD or suspected cervical spine or chest injuries
+
+##### Automatic transport ventilator (ATV)/resuscitator
+-  Manually triggered device attached to a control box
+-  Allows the variable of ventilation to be set
+-  Lacks the sophisticated control of a hospital ventilator
+-  Frees the EMT to perform other tasks
+
+#### Continuous Positive Airway Pressure (CPAP)
+##### Noninvasive ventilatory support for respiratory distress
+-   Many people diagnosed with obstructive sleep apnea wear a CPAP unit at night.
+-  Becoming widely used at the EMT level
+##### Mechanism
+-  Increases pressure in the lungs
+-  Opens collapsed alveoli
+-  Pushes more oxygen across the alveolar membrane
+-  Forces interstitial fluid back into the pulmonary circulation
+
+-  Therapy is delivered through a face mask held to the head with a strapping system.
+	-  a good seal is essential
+-  Use caution with patients with potentially low blood pressure.
+
+##### Indications
+-  Patient is alert and able to follow commands
+-  Patient displays obvious signs of moderate to severe respiratory distress
+-  Patient is breathing rapidly
+-  Pulse oximetry reading is less than 90%
+
+##### Contraindications
+-  Patient in respiratory arrest
+-  Patient is hypoventilating.
+-  Patient cannot speak.
+-  Patient is unresponsive or cannot follow verbal commands.
+-  Patient cannot protect his or her airway.
+-  Patient has hypotension.
+-  Signs and symptoms of a pneumothorax or chest trauma
+-  Patient has a tracheostomy.
+-  Active gastrointestinal bleeding or vomiting
+-  Patient has experienced facial trauma.
+-  Patient is in cardiogenic shock.
+-  Patient cannot sit upright
+-  Patient cannot tolerate the mask.
+
+##### Application
+-  Resistance creates back pressure that pushes open smaller airway structures as the patient exhales
+-  Amount of pressure can be adjusted
+	-  7.0 to 10.0 cm H$2$O is acceptable.
+-  Most CPAP powered by oxygen
+	-  full oxygen tanks are important
+
+##### Complications
+-  Some patients may find CPAP claustrophobic.
+-  High pressure create risk of pneumothorax
+-  high pressure in chest can lower the patient's blood pressure
+-  If the patient shows signs of deterioration, remove CPAP and begin positive-pressure ventilation using a BVM.
